@@ -1,0 +1,19 @@
+.banner {
+    background-color: #0d1b77;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+#small-earth {
+    hight: 100px;
+    width: 100px;
+    
+}
+#earther {
+    color: #0d1b77;
+    font-size: 100px;
+}
+.bold {
+    font-weight: 900;
+}
